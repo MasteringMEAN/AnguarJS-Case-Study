@@ -1,1 +1,0 @@
-All the chapters of the book have code.
